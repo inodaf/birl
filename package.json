@@ -1,8 +1,8 @@
 {
   "name": "birl",
   "main": "birl.js",
-  "version": "0.1.0",
-  "description": "Make Atom editor sound like Bambam",
+  "version": "1.0.0",
+  "description": "Make Atom editor sounds like Bambam",
   "repository": "https://github.com/isacfadoni/birl",
   "license": "MIT",
   "engines": {
