@@ -1,9 +1,9 @@
 {
-  "name": "typewriter-sounds",
-  "main": "typewriter.js",
+  "name": "birl",
+  "main": "birl.js",
   "version": "0.1.0",
-  "description": "Make Atom editor sound like a typewriter",
-  "repository": "https://github.com/surdu/typewriter-sounds",
+  "description": "Make Atom editor sound like Bambam",
+  "repository": "https://github.com/isacfadoni/birl",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
